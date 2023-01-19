@@ -4,7 +4,6 @@
    <a href="https://github.com/Dlord250">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dlord250&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dlord250&layout=compact&langs_count=6&theme=tokyonight"/>
-
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -14,7 +13,7 @@
  
  <br>
  
-  ###  gostou do conteudo me segue nas redes abaixo!
+  ## Caso queria me seguir ou ter um contato mais direto
  
 <div> 
   <a href="https://www.youtube.com/@dlord2508" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
