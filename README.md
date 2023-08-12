@@ -20,7 +20,6 @@
   <a href="https://instagram.com/dlord250" target="_blank"><img src="https://img.shields.io/badge/-Instagram_2-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "davidferreiracosta250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/devid-ferreira-057b0925a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/Dlord250/Dlord250/blob/output/github-contribution-grid-snake.svg)
+  <a href="https://www.linkedin.com/in/devid-ferreira-057b0925a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   ![Snake animation](https://github.com/Dlord250/Dlord250/blob/output/github-contribution-grid-snake.svg)
 </div>
